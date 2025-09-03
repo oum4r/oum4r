@@ -114,7 +114,6 @@ Scalable social platform with modular architecture, external API integrations, a
 
 ## ⚡ Unique Value Proposition
 
-**The Complete Hardware-Software-AI Engineer:**
 - 🧠 **AI Expertise:** 95% COVID detection, 84.52% ECG classification
 - ⚡ **Hardware Integration:** Custom PCB design, FPGA programming, UWB tracking systems
 - 🔬 **Research Excellence:** PhD-level investigation in cutting-edge quaternion machine learning
