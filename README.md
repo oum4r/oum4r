@@ -63,7 +63,7 @@
 **Tech Stack:** CNN, Transfer Learning, MATLAB, Medical Imaging  
 **Achievement:** 95% classification accuracy using transfer learning techniques  
 Advanced computer vision system for automated COVID-19 diagnosis with comprehensive data augmentation and image enhancement pipeline.
-<!--[🔗 View Project](https://github.com/username/covid-xray-detection)-->
+[🔗 View Project](https://github.com/oum4r/covid-xray-detection)
 
 ### 🫀 ECG Signal Segmentation and Classification System
 **Tech Stack:** MATLAB, LSTM/GRU/TCN, Signal Processing  
